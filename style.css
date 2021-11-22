@@ -23,7 +23,7 @@ body{
     display: flex;
     height: 100vh;
 }
-.conteiner{
+.container{
     display: flex;
     max-width: 1110px;
     margin: auto;
